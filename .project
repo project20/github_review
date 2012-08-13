@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>github_review</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+<<<<<<< HEAD
+	</buildSpec>
+	<natures>
+=======
+		<buildCommand>
+			<name>com.aptana.ide.core.unifiedBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.aptana.projects.webnature</nature>
+>>>>>>> 681bd314ed7ce1287ae1ea4ef5eab4c01a379841
+	</natures>
+</projectDescription>
