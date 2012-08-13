@@ -1,3 +1,3 @@
 Shouhei Umemoto
 Kento Yamamoto
-tasuku nakano
+Tasuku Nakano
