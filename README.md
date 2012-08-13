@@ -3,3 +3,4 @@ Shouhei Umemoto
 Kento Yamamoto
 Tasuku Nakano
 Seiya Wada
+Yuta Kikuya
