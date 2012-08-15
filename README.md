@@ -22,33 +22,40 @@ Nakano
 
 Kamiya
 Nakano
+Wada
 
 ## 9/5(Wed)
 
 Kamiya
 Nakano
+Wada
 
 ## 9/7(Fri)
 
 Kamiya
+Wada
 
 ## 9/12(Wed)
 
 Kamiya
+Wada
 
 ## 9/14(Fri)
 
 Kamiya
 Kikuya
+Wada
 
 ## 9/19(Wed)
 
 Kamiya
 Kikuya
 Umemoto
+Wada
 
 ## 9/21(Fri)
 
 Kamiya
 Kikuya
 Umemoto
+Wada
