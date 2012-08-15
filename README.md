@@ -3,22 +3,27 @@
 ## 8/22(Wed)
 
 Kamiya
+Nakano
 
 ## 8/24(Fri)
 
 Kamiya
+Nakano
 
 ## 8/29(Wed)
 
 Kamiya
+Nakano
 
 ## 8/31(Fri)
 
 Kamiya
+Nakano
 
 ## 9/5(Wed)
 
 Kamiya
+Nakano
 
 ## 9/7(Fri)
 
