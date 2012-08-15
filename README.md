@@ -2,35 +2,35 @@
 
 ## 8/22(Wed)
 
-kamiya
+Kamiya
 
 ## 8/24(Fri)
 
-kamiya
+Kamiya
 
 ## 8/29(Wed)
 
-kamiya
+Kamiya
 
 ## 8/31(Fri)
 
-kamiya
+Kamiya
 
 ## 9/5(Wed)
 
-kamiya
+Kamiya
 
 ## 9/7(Fri)
 
-kamiya
+Kamiya
 
 ## 9/12(Wed)
 
-kamiya
+Kamiya
 
 ## 9/14(Fri)
 
-kamiya
+Kamiya
 
 ## 9/19(Wed)
 
@@ -38,4 +38,4 @@ kamiya
 
 ## 9/21(Fri)
 
-kamiya
+Kamiya
