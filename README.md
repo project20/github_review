@@ -4,11 +4,13 @@
 
 Kamiya
 Nakano
+Umemoto
 
 ## 8/24(Fri)
 
 Kamiya
 Nakano
+Umemoto
 
 ## 8/29(Wed)
 
@@ -39,8 +41,10 @@ Kamiya
 
 ## 9/19(Wed)
 
-kamiya
+Kamiya
+Umemoto
 
 ## 9/21(Fri)
 
 Kamiya
+Umemoto
