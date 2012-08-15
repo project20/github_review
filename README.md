@@ -3,6 +3,7 @@
 ## 8/22(Wed)
 
 Kamiya
+Kikuya
 Nakano
 Umemoto
 
@@ -38,13 +39,16 @@ Kamiya
 ## 9/14(Fri)
 
 Kamiya
+Kikuya
 
 ## 9/19(Wed)
 
 Kamiya
+Kikuya
 Umemoto
 
 ## 9/21(Fri)
 
 Kamiya
+Kikuya
 Umemoto
