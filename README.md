@@ -1,5 +1,4 @@
-Title
-======
+# Schedule
 
 Toshihiro Kamiya
 Shouhei Umemoto
