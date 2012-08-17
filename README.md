@@ -17,6 +17,7 @@
 - Kamiya
 - Nakano
 - Wada
+- Umemoto (途中参加)
 
 ## 9/5(Wed)
 
@@ -24,6 +25,7 @@
 - Nakano
 - Wada
 - Kimura
+- Umemoto (途中参加)
 
 ## 9/7(Fri)
 
