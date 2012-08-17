@@ -1,12 +1,5 @@
 # Schedule (14:50~18:00)
 
-## 8/22(Wed)
-
-Kamiya
-Kikuya
-Nakano
-Umemoto
-
 ## 8/24(Fri)
 
 Kamiya
