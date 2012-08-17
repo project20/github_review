@@ -29,22 +29,26 @@ Wada
 Kamiya
 Nakano
 Wada
+Kimura
 
 ## 9/7(Fri)
 
 Kamiya
 Wada
+Kimura
 
 ## 9/12(Wed)
 
 Kamiya
 Wada
+Kimura
 
 ## 9/14(Fri)
 
 Kamiya
 Kikuya
 Wada
+Kimura
 
 ## 9/19(Wed)
 
