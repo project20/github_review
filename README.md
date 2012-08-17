@@ -7,11 +7,6 @@
 - Nakano
 - Umemoto
 
-## 8/29(Wed)
-
-- Kamiya
-- Nakano
-
 ## 8/31(Fri)
 
 - Kamiya
