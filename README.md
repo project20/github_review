@@ -7,7 +7,7 @@
 - Nakano
 - Umemoto
 
-## 8/31(Fri)
+## 8/31(Fri) This day, ICT member have after-party.
 
 - Kamiya
 - Nakano(途中参加)
@@ -21,12 +21,14 @@
 - Wada
 - Kimura
 - Umemoto (途中参加)
+- Yamamoto
 
 ## 9/7(Fri)
 
 - Kamiya
 - Wada
 - Kimura
+- Yamamoto
 
 ## 9/12(Wed)
 
