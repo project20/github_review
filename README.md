@@ -10,7 +10,7 @@
 ## 8/31(Fri)
 
 - Kamiya
-- Nakano
+- Nakano(途中参加)
 - Wada
 - Umemoto (途中参加)
 
