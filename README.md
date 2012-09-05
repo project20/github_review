@@ -16,12 +16,12 @@
 
 ## 9/5(Wed)
 
-- Kamiya
-- Nakano
+- Kamiya 
+- Nakano , NOT ATTENDING :<
 - Wada
-- Kimura
+- Kimura , NOT ATTENDING :<
 - Umemoto (途中参加)
-- Yamamoto
+- Yamamoto , NOT ATTENDING :<
 
 ## 9/7(Fri)
 
