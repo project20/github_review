@@ -14,15 +14,6 @@
 - Wada
 - Umemoto (途中参加)
 
-## 9/5(Wed)
-
-- Kamiya 
-- Nakano , NOT ATTENDING :<
-- Wada
-- Kimura , NOT ATTENDING :<
-- Umemoto (途中参加)
-- Yamamoto , NOT ATTENDING :<
-
 ## 9/7(Fri)
 
 - Kamiya
